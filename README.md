@@ -20,12 +20,9 @@
   </a>
 </p>
 
-
-
 <div align="center">
-  <img width=500px src="https://github.com/devrayan-x/devrayan-x/blob/main/mygif.gif"  />
+  <img width="500px" src="https://github.com/devrayan-x/devrayan-x/blob/main/mygif.gif" alt="Your GIF" class="rounded" />
 </div>
-
 
 <br clear="both">
 
