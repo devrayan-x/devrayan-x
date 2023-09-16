@@ -2,11 +2,30 @@
 
 ###
 
+<p align="center">
+  <a href="https://github.com/devrayan-x">
+    <img src="https://img.shields.io/badge/GitHub-devrayanx-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-hayzer-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-therayan-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://discordapp.com/users/989449056210272256">
+    <img src="https://img.shields.io/badge/Discord-.lasurprise-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.instagram.com/rayansvg_/">
+    <img src="https://img.shields.io/badge/Instagram-rayansvg-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+
+
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.gif"  />
+  <img width=500px src="https://github.com/devrayan-x/devrayan-x/blob/main/mygif.gif"  />
 </div>
 
-###
 
 <br clear="both">
 
