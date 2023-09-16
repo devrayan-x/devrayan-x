@@ -27,13 +27,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devrayan-x&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=devrayan-x&locale=fr&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devrayan-x&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=devrayan-x&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<p align="center"><b>Rayan</b>, 16 ans, en route vers une carrière de <b>software engineer</b>. Passionné par la programmation en Python, JavaScript, et plus encore. Ouvert à la collaboration et à l'apprentissage.</p>
+<p align="center">Rayan, 16 ans, en route vers une carrière de software engineer. Passionné par la programmation en Python, JavaScript, et plus encore. Ouvert à la collaboration et à l'apprentissage. Let's code together!</p>
 
 ###
 
