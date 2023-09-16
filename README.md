@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif"  />
+  -![Sample Gif](https://giphy.com/gifs/YQitE4YNQNahy)
 </div>
 
 ###
