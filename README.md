@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  -![Sample Gif](https://giphy.com/gifs/YQitE4YNQNahy)
+  <img height="200" src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.gif"  />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">Rayan, 16 ans, en route vers une carrière de développeur logiciel. Passionné par la programmation en Python, JavaScript, et plus encore. Ouvert à la collaboration et à l'apprentissage. Let's code together!</p>
+<p align="center">Rayan, 16 ans, en route vers une carrière de software engineer. Passionné par la programmation en Python, JavaScript, et plus encore. Ouvert à la collaboration et à l'apprentissage. Let's code together!</p>
 
 ###
 
@@ -25,6 +25,6 @@
 
 ###
 
-<p align="left">Languages: Python, Java, C++, HTML, CSS<br>Science des données : Pandas, NumPy, TensorFlow<br>Résolution de problèmes : Algorithmes, structures de données<br>Développement Web : Frontend et Backend</p>
+<p align="left">Languages: Python, Java, C++, HTML, CSS, JavaScript<br>Science des données : Pandas, NumPy, TensorFlow<br>Résolution de problèmes : Algorithmes, structures de données<br>Développement Web : Frontend et Backend</p>
 
 ###
