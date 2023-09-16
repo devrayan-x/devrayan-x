@@ -33,7 +33,7 @@
 
 ###
 
-<p align="center">Rayan, 16 ans, en route vers une carrière de software engineer. Passionné par la programmation en Python, JavaScript, et plus encore. Ouvert à la collaboration et à l'apprentissage. Let's code together!</p>
+<p align="center"><b>Rayan</b>, 16 ans, en route vers une carrière de <b>software engineer</b>. Passionné par la programmation en Python, JavaScript, et plus encore. Ouvert à la collaboration et à l'apprentissage.</p>
 
 ###
 
@@ -41,6 +41,6 @@
 
 ###
 
-<p align="left">Languages: Python, Java, C++, HTML, CSS, JavaScript<br>Science des données : Pandas, NumPy, TensorFlow<br>Résolution de problèmes : Algorithmes, structures de données<br>Développement Web : Frontend et Backend</p>
+<p align="left"><b>Languages</b>: Python, Java, C++, HTML, CSS, JavaScript<br><b>Science des données</b> : Pandas, NumPy, TensorFlow<br><b>Résolution de problèmes</b> : Algorithmes, structures de données<br><b>Développement Web</b> : Frontend et Backend</p>
 
 ###
