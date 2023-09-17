@@ -33,10 +33,6 @@
 
 ###
 
-<p align="center">Rayan, 16 ans, en route vers une carrière de software engineer. Passionné par la programmation en Python, JavaScript, et plus encore. Ouvert à la collaboration et à l'apprentissage. Let's code together!</p>
-
-###
-
 <h2 align="left">Compétences</h2>
 
 ###
