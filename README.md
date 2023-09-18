@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub-devrayanx-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-hayzer-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-hayzer-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linked">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Twitter-therayan-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
